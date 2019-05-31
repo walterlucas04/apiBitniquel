@@ -1,0 +1,12 @@
+br/com/bitniquel/wallet/model/BankAccount.class
+br/com/bitniquel/wallet/api/MessengeIFTTT.class
+br/com/bitniquel/wallet/model/Client.class
+br/com/bitniquel/wallet/repository/ClientRepository.class
+br/com/bitniquel/wallet/web/ClientController.class
+br/com/bitniquel/wallet/api/BlockIO.class
+br/com/bitniquel/wallet/model/Phone.class
+br/com/bitniquel/wallet/model/Wallet.class
+br/com/bitniquel/wallet/WalletApplication.class
+br/com/bitniquel/wallet/model/Address.class
+br/com/bitniquel/wallet/web/MainController.class
+br/com/bitniquel/wallet/model/Transaction.class
